@@ -14,7 +14,7 @@
 
 ## 游戏截图
 
-![游戏截图](./screenshot.png)
+![游戏截图](./img/screenshot.png)
 
 ## 安装与运行
 
